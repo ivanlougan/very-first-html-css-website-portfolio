@@ -1,0 +1,43 @@
+* {
+    background-color: #f2f7d9;
+}
+.head {
+    background-color: #7a8b1d;
+    padding: 15px;
+}
+#searchBar {
+    width: 300px;
+    padding: 0%;
+    align-self: center;
+}    
+
+h1 {
+    background-color: #b8d02c;
+}
+
+h2 {
+    background-color: #b8d02c;
+}
+
+#links {
+
+    padding: 30px;
+    border: solid 10px #667419;    
+    text-align: center;
+    font-size: large;
+    margin: 50px;
+}
+
+#useful {
+    width: 300px;
+    height: 150px;
+    font-size: large;
+    text-align: center;
+    border: dotted 8px #667419;
+    padding: 20px;
+}
+
+#end {
+    background-color: #667419;
+    text-align: center;
+}
